@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+8af260ef7b1cbda87c7c93169a6f6336 game/external/SDL2/CMakeFiles/uninstall
