@@ -1,5 +1,5 @@
 
-<p align="center"> :apple: pacman - is a game that was written on Ubisoft engine “minikit”(uses SDL2, ImGUI).</p>
+<p align="center"> :apple: maze - is a game that was written on Ubisoft engine “minikit”(uses SDL2, ImGUI).It's our own implementation of pacman</p>
 
 
 Implemented features: dynamic tilemaps , collision detection, using ImGui, scores, levels, speed, keyboard controls, primitive AI for ghosts, own design.
